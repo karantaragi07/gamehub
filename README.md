@@ -1,9 +1,11 @@
 🎮 Stone Paper Scissors Game – Web Version
+
 A fun and interactive implementation of the classic Stone Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ---
 
 📝 Description
+
 This project is a simple web-based version of the well-known Stone Paper Scissors game. It allows the player to compete against the computer, tracks the score, and delivers a responsive and engaging UI.
 
 Perfect as a beginner-level JavaScript project for practicing DOM manipulation, conditional logic, and responsive design.
@@ -11,6 +13,7 @@ Perfect as a beginner-level JavaScript project for practicing DOM manipulation, 
 ---
 
 🚀 Features
+
 🎲 Play Stone, Paper, Scissors against the computer.
 
 🔢 Live score tracking for both the player and computer.
